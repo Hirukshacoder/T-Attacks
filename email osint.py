@@ -34,4 +34,6 @@ print("Sending Email to: ",receiver_email)
 with smtplib.SMTP_SSL("smtp.gmail.com",465,context=context) as server:
     server.login(sender_email, sender_email_password)
     server.sendmail(sender_email, receiver_email, message.as_string())
+print("Give me a second")
+print("ALL RIGHTS RESERVED BY TREVEEN")
 print("Success")
