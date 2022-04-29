@@ -17,9 +17,6 @@ Type the following commands in your terminal
 $ sudo apt install git
 $ git clone https://github.com/Hirukshacoder/Email-Attacker
 $ cd Email-Attacker
-$ Then open it with your terminal!!!!
-$ You should have python installed in your pc
-
-==========================================================================================================================================================================
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<@Treveen Hiruksha Bastian@>===================================================================================
+$ pip install -r requirements.txt
+$ sudo install.sh
+$ python3 'email osint.py'
