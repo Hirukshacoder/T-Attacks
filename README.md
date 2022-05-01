@@ -14,14 +14,7 @@ works with ubuntu, kali linux, macos, windows(terminal preview only)
 
 Installation:
 
-Type the following commands in your terminal
-
-$ sudo apt install git
-$ git clone https://github.com/Hirukshacoder/Email-Attacker
-$ cd Email-Attacker
-$ pip install -r requirements.txt
-$ sudo install.sh
-$ python3 'email osint.py'
+View the installation file all commands are in there!!!!
 
 Made with ♥️ by Hirukshacorder/Treveen
 
