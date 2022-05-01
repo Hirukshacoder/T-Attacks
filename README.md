@@ -17,9 +17,9 @@ works with ubuntu, kali linux, macos, windows(terminal preview only)
 
 Installation:
 
-> git clone https://github.com/Hirukshacoder/Email-Attacker
+> git clone https://github.com/Hirukshacoder/T-Attacks
 
-> cd Email-Attacker
+> cd T-Attacks
 
 > pip install -r rquirements.txt
 
