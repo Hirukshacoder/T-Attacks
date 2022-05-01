@@ -1,4 +1,0 @@
-$ git clone https://github.com/Hirukshacoder/Email-Attacker
-$ cd Email-Attacker
-$ pip install -r rquirements.txt
-$ python3 email osint.py
