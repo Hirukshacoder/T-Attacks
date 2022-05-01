@@ -18,8 +18,11 @@ works with ubuntu, kali linux, macos, windows(terminal preview only)
 Installation:
 
 > git clone https://github.com/Hirukshacoder/Email-Attacker
+
 > cd Email-Attacker
+
 > pip install -r rquirements.txt
+
 > python3 main.py
 
 # All Rights reserved by Hirukshacorder
