@@ -29,7 +29,7 @@ if select_option == '1':
     print("")
     from email_attacker import *
     
-else
+else:
  if select_option == '2':
     print("")
     print("phone number locator was chosen")
