@@ -14,7 +14,7 @@ works with ubuntu, kali linux, macos, windows(terminal preview only)
 
 Installation:
 
-View the installation file all commands are in there!!!!
+$ View the installation file all commands are in there!!!! $
 
 Made with ♥️ by Hirukshacorder/Treveen
 
