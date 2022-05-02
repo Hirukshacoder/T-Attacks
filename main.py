@@ -35,3 +35,7 @@ else:
     print("phone number locator was chosen")
     print("")
     from phonenumberlocator import *
+    
+else:
+    print("Nothing found")
+    print("Good bye!")
