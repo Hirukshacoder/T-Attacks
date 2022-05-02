@@ -29,7 +29,4 @@ Installation:
 
 * Made with ♥️ by Hirukshacorder/Treveen
 
-> Only for Educational purposes if any illegal things happen we are not responsible, Thankyou.
-
-# Hiruksha
-# ========
+# Only for Educational purposes if any illegal things happen we are not responsible, Thankyou.
