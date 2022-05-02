@@ -25,8 +25,11 @@ Installation:
 
 > python3 main.py
 
-# All Rights reserved by Hirukshacorder
+* All Rights reserved by Hirukshacorder
 
-# Made with ♥️ by Hirukshacorder/Treveen
+* Made with ♥️ by Hirukshacorder/Treveen
 
-# Only for Educational purposes if any illegal things happen we are not responsible Thankyou.
+> Only for Educational purposes if any illegal things happen we are not responsible, Thankyou.
+
+# Hiruksha
+# ========
