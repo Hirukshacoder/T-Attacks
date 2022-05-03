@@ -17,13 +17,13 @@ works with ubuntu, kali linux, macos, windows(terminal preview only)
 
 Installation:
 
-> git clone https://github.com/Hirukshacoder/T-Attacks
+     > git clone https://github.com/Hirukshacoder/T-Attacks
 
-> cd T-Attacks
+     > cd T-Attacks
 
-> pip install -r rquirements.txt
+     > pip install -r rquirements.txt
 
-> python3 main.py
+     > python3 main.py
 
 * All Rights reserved by Hirukshacorder
 
